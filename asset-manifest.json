@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/contacto/static/css/main.47fea8ab.css",
+    "main.js": "/contacto/static/js/main.32a163ed.js",
+    "static/media/contact.png": "/contacto/static/media/contact.66fdd55e182d728d54d2.png",
+    "static/media/objetomuestra3.png": "/contacto/static/media/objetomuestra3.54e4c5fab8d975d10ed2.png",
+    "static/media/pw.png": "/contacto/static/media/pw.6c49dfd2e357d7ef663e.png",
+    "static/media/objetomuestra.png": "/contacto/static/media/objetomuestra.efd91fe4b960dfe97c0a.png",
+    "static/media/objetomuestra2.png": "/contacto/static/media/objetomuestra2.1542f8a62abb0f610e53.png",
+    "static/media/cb.png": "/contacto/static/media/cb.d7457337271c8269ffd2.png",
+    "static/media/rt.png": "/contacto/static/media/rt.ba2157f36b9dca528654.png",
+    "static/media/hc.ico": "/contacto/static/media/hc.f7b3c0457d4d055cd86d.ico",
+    "static/media/logo.png": "/contacto/static/media/logo.53de10935f4bcd686c1b.png",
+    "static/media/pb.ico": "/contacto/static/media/pb.97efbde1339df8c276ae.ico",
+    "static/media/english.png": "/contacto/static/media/english.175654fa4ced9a7868dc.png",
+    "static/media/s.ico": "/contacto/static/media/s.7c4885d86f1abfed5fb4.ico",
+    "static/media/phone.ico": "/contacto/static/media/phone.fb244201058d6b0c101c.ico",
+    "static/media/tech.ico": "/contacto/static/media/tech.da40460ab9c53a9b7a4a.ico",
+    "static/media/ny.ico": "/contacto/static/media/ny.1af14ef42c5b02d2f2a5.ico",
+    "static/media/logoshop.png": "/contacto/static/media/logoshop.26fb90b24d2fc4a12ff3.png",
+    "static/media/proservic.ico": "/contacto/static/media/proservic.c08c630e2a72736eb569.ico",
+    "static/media/spanish.png": "/contacto/static/media/spanish.8f1bf03694b2fbe1e489.png",
+    "static/media/finance.ico": "/contacto/static/media/finance.175559e70e08b91b333f.ico",
+    "static/media/email.ico": "/contacto/static/media/email.9082177d266cee25a57b.ico",
+    "static/media/goods.ico": "/contacto/static/media/goods.fd498ab99cf2c7530e20.ico",
+    "static/media/edu.ico": "/contacto/static/media/edu.6ebc772ba91fc3753cb5.ico",
+    "static/media/office.ico": "/contacto/static/media/office.cab53aed2ccd8b1d1a57.ico",
+    "static/media/manufac.ico": "/contacto/static/media/manufac.6796ebc2f51ed87df631.ico",
+    "index.html": "/contacto/index.html",
+    "main.47fea8ab.css.map": "/contacto/static/css/main.47fea8ab.css.map",
+    "main.32a163ed.js.map": "/contacto/static/js/main.32a163ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47fea8ab.css",
+    "static/js/main.32a163ed.js"
+  ]
+}
